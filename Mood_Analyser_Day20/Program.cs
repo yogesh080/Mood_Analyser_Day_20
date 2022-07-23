@@ -5,9 +5,9 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello welcome to mood analyser");
+            MoodAnalyser moodAnalyser = new MoodAnalyser();
 
-
+            Console.WriteLine(moodAnalyser.AnalyseMood("I'm in any mood".ToLower()));
         }
     }
 }
