@@ -1,0 +1,15 @@
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\obj\Debug\net6.0\Mood_Analyser_Day20.csproj.AssemblyReference.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\obj\Debug\net6.0\Mood_Analyser_Day20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\obj\Debug\net6.0\Mood_Analyser_Day20.AssemblyInfoInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\obj\Debug\net6.0\Mood_Analyser_Day20.AssemblyInfo.cs
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\obj\Debug\net6.0\Mood_Analyser_Day20.csproj.CoreCompileInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\bin\Debug\net6.0\Mood_Analyser_Day20.exe
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\bin\Debug\net6.0\Mood_Analyser_Day20.deps.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\bin\Debug\net6.0\Mood_Analyser_Day20.runtimeconfig.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\bin\Debug\net6.0\Mood_Analyser_Day20.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\bin\Debug\net6.0\Mood_Analyser_Day20.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\obj\Debug\net6.0\Mood_Analyser_Day20.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\obj\Debug\net6.0\refint\Mood_Analyser_Day20.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\obj\Debug\net6.0\Mood_Analyser_Day20.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\obj\Debug\net6.0\Mood_Analyser_Day20.genruntimeconfig.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\Mood_Analyser_Day20\obj\Debug\net6.0\ref\Mood_Analyser_Day20.dll
