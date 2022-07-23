@@ -1,0 +1,6 @@
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\TestMoodAnalyser\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\TestMoodAnalyser\obj\Debug\net6.0\TestMoodAnalyser.csproj.AssemblyReference.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\TestMoodAnalyser\obj\Debug\net6.0\TestMoodAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\TestMoodAnalyser\obj\Debug\net6.0\TestMoodAnalyser.AssemblyInfoInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\TestMoodAnalyser\obj\Debug\net6.0\TestMoodAnalyser.AssemblyInfo.cs
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Mood_Analyser_Day20\TestMoodAnalyser\obj\Debug\net6.0\TestMoodAnalyser.csproj.CoreCompileInputs.cache

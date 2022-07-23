@@ -8,17 +8,39 @@ namespace MoodAnalyser_Day20
 {
     public class MoodAnalyser
     {
+        public string message;
 
-        public string AnalyseMood(string message)
+
+        public MoodAnalyser(string message)
         {
-            if (message.Contains("sad"))
+            this.message = message;
+        }
+
+        public string AnalyseMood()
+        {
+            NullException nullException = new NullException();
+
+            try
             {
-                return "Sad";
+                if (message == null || message == "")
+                {
+                    nullException.shownullException(message);
+                }
+                if (message.Contains("sad"))
+                {
+                    return "Sad";
+                }
+                else
+                {
+                    return "Happy";
+                }
             }
-            else
+            catch (MoodAnalysisException e)
             {
-                return "Happy";
+                Console.WriteLine(e.Message);
+                return e.Message;
             }
+
         }
 
     }
